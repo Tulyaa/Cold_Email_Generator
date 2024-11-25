@@ -49,5 +49,7 @@ Add your API key for the language model:
 GROQ_API_KEY=your_groq_api_key
 
 ## Screenshots
-![Screenshot (315)](https://github.com/user-attachments/assets/c9febd35-4a3c-4e2a-931a-be4a8a5c41dc)
-![Screenshot (316)](https://github.com/user-attachments/assets/d6244a07-d26f-47c1-9e7a-8e3af6d8c136)
+![Screenshot (315)](https://github.com/user-attachments/assets/21422328-8a06-4266-a80c-63b0d0785e83)
+![Screenshot (316)](https://github.com/user-attachments/assets/ef8e2f88-22f9-4e06-9fac-9dec3b0095c8)
+
+
